@@ -1,0 +1,3 @@
+﻿./npcdata/local/prontera/library.sc
+./npcdata/local/prontera/link.sc
+./npcdata/local/prontera/npc.sc
